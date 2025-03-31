@@ -1,0 +1,68 @@
+Contexte
+Je veux créer Pierre Niney Network, un réseau social fictif à l’ambiance subtilement absurde, inspiré de Pierre Niney. L’interface doit être moderne, bien structurée, fluide et optimisée, tout en conservant un aspect professionnel malgré son contenu humoristique.
+
+Je vais te fournir une maquette d’interface, et je veux que tu génères un code propre, organisé, performant et facile à lire.
+
+🎯 Objectif
+Développer un site web fonctionnel avec une architecture solide, une UI/UX fluide, et un code optimisé, basé sur mon concept d’interface.
+
+📌 Instructions générales pour le code
+✅ HTML propre et sémantique → Structuration claire avec <header>, <main>, <section>, <article>, <footer>, etc.
+✅ CSS moderne et optimisé → Utilisation de Flexbox/Grid, classes bien nommées (BEM si pertinent), animations légères.
+✅ JavaScript efficace et structuré → Éviter la redondance, modularisation si nécessaire, utilisation d’async/await si besoin.
+✅ Accessibilité & responsive design → Mobile-first, balises ARIA si pertinent.
+✅ Code commenté et lisible → Explications claires pour chaque section importante.
+✅ Performances optimisées → Chargement rapide, évitement des calculs inutiles, minimisation du DOM.
+
+📜 Structure du site
+Le site doit inclure les pages suivantes :
+
+🏠 Accueil/Feed → Interface principale avec fil d'actualité interactif.
+
+👤 Profil utilisateur → Page avec avatar généré, statistiques absurdes et citations Niney.
+
+⚙️ Paramètres → Activation/désactivation des fonctionnalités absurdes.
+
+🚀 Page 404 personnalisée → Message absurde : "Pierre Niney vous a égaré."
+
+🔑 Inscription / Connexion (si nécessaire).
+
+💡 Fonctionnalités principales
+📰 Fil d’actualité interactif
+✅ Chaque message commence automatiquement par : "Pierre Niney a dit...".
+✅ Système de réactions limité à des emojis absurdes (🐊 crocodile, 🎭 masque, 👀 regarder).
+
+🔀 Mode "Niney" (toggle activable)
+✅ Transforme tous les textes du site en citations absurdes.
+🏆 Validation Niney ("Niney Approves")
+✅ Une animation subtile où Pierre Niney valide aléatoirement l’activité des utilisateurs.
+✅ Un compteur en haut à droite, qui augmente aléatoirement sans explication.
+
+📊 Statistiques inutiles
+✅ Exemples :
+
+"Potentiel Niney"
+
+"Temps passé sous l’œil de Pierre Niney"
+
+🤖 Générateur d’avatars flous
+✅ Chaque utilisateur reçoit un avatar légèrement flouté pour "ressembler" à Pierre Niney.
+
+🏅 Contenu personnalisé
+Ajoute ces utilisateurs fictifs dans la section Suggestions à suivre :
+✅ Bombardiro Crocodilo → Image d’un crocodile-avion.
+✅ Tralalelo Tralala → Image d’un requin en baskets.
+✅ Lirili Larila → Image d’un éléphant-cactus.
+✅ Tung tung tung sahur → Image d’une statue en bois.
+✅ Shimpazinni Bananinni → Image d’un singe-banane.
+
+💻 Technologies demandées
+✅ Frontend : HTML5, CSS3 (Flexbox/Grid), JavaScript (Vanilla ou React si pertinent).
+✅ Backend (optionnel) : Node.js + Express / Firebase (si base de données nécessaire).
+✅ Design : Palette moderne et minimaliste, animations CSS fluides.
+
+✅ Attentes finales
+📌 Le code doit être propre, optimisé et bien organisé, prêt à être utilisé directement, avec des commentaires clairs et des bonnes pratiques.
+📌 Aucune fonctionnalité superflue, tout doit être pertinent, fonctionnel et bien conçu pour un réseau social minimaliste et fluide.
+
+🚀 Rends l’expérience utilisateur immersive, avec une UI moderne et une navigation intuitive.
